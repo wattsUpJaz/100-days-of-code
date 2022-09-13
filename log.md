@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Monday - September 12, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started this challenge! Figured out how to preview markdown in vscode (`Shift+⌘+V`)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Did some preliminary research on business ideas today, specifically a tool for animating on top of video, and a tool for automating lip sync animations. Also got a book to read for market research (Deploy Empathy). TBH, spending time on business stuff, like market research and books and long term goals is harder for me than programming. I could just jump off the cliff of building a product now, but I haven't validated anything. Talking to people and figuring out what they're struggling with is the real hard thing. Of course building software is hard, but I'm pretty comfortable with that kind of hard. It's the people... geez they're terrifying.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Notion Note](https://www.notion.so/Animation-tool-for-adding-anims-on-top-of-videos-c8a7373e15f549b9b77f9986bd1cc5b9)
