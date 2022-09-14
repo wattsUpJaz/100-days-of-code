@@ -8,4 +8,16 @@
 
 **Link(s) to work**
 
-1. [Notion Note](https://www.notion.so/Animation-tool-for-adding-anims-on-top-of-videos-c8a7373e15f549b9b77f9986bd1cc5b9)
+- [Notion Note](https://www.notion.so/Animation-tool-for-adding-anims-on-top-of-videos-c8a7373e15f549b9b77f9986bd1cc5b9)
+
+### Day 2: Tuesday - September 13, 2022
+
+**Today's Progress**: Created my first Webflow website. I can't believe I haven't used it till now. It's wonderful. Made a masonry grid using [this](https://webflow.com/made-in-webflow/website/Masonry-Grid). Read up and tried image SEO optimization using Photoshop for compression and Adobe Bridge for renaming and applying metadata (some resources I used [here](https://university.webflow.com/lesson/image-resolution), [here](https://flothemes.com/everything-photographer-seo/), and [here](https://www.foregroundweb.com/image-size/))
+
+**Thoughts**: Read more of Deploy Empathy. I'm not as confident in the idea I investigated yesterday, and I'm wondering now where I should even start looking for opportunities. I made myself a goal though, to interview one person that isn't family or close friends. I'm hoping that by starting small maybe it'll kick off a chain reaction. I broadened my criteria for finding a business idea, to picking several areas I want to investigate.
+
+The expectation to code every day is good for me. Otherwise, I think I would just hyperfocus on the whole market research thing, and because market research is new and hard, I'd exhaust myself really fast. Making progress in other things that are tangible (or as tangible as code is), seems to help keep me grounded.
+
+**Link(s) to work**
+
+- [Webflow site](https://jared-watts-photography.webflow.io/)
