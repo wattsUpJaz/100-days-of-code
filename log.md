@@ -21,3 +21,15 @@ The expectation to code every day is good for me. Otherwise, I think I would jus
 **Link(s) to work**
 
 - [Webflow site](https://jared-watts-photography.webflow.io/)
+
+### Day 3: Wednesday - September 14, 2022
+
+**Today's Progress**: Worked on the Webflow site more. I really wanted to hook it up to a custom domain, but ran into the Pay Wall. I ended up just redirecting the custom domain to the webflow subdomain, because the site is just that much better. It'll hurt SEO, but whatever. Also spent a lot of time adding alt tags to photos. Created a form and a fun custom animation for the link based on a tutorial I stumbled into.
+
+**Thoughts**: Being on Twitter is kind of scary. A Godot developer (like he contributes to the Godot codebase) promoted my World Wrap tutorial on his Twitter just out of the kindness of his heart, and I got like 500 views on the video and over 100 new subscribers on my Youtube channel. Which is still small potatoes, but is also tons more than I've ever had. And it is very scary. One of the Twitter guys who saw that tweet found me on Twitter, which is absurd. I have no idea how he did that.
+
+I'm learning that I am extremely sensitive to people watching me. I knew this before, but it just cuts really deep right now. I want to go hide. I don't think I will though. I feel scared, but I also feel strong enough to face it right now. Weird. I have never felt that before.
+
+**Link(s) to work**
+
+- [Jared Watts Photography website](https://jaredwattsphotography.com/)
