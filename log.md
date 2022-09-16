@@ -33,3 +33,13 @@ I'm learning that I am extremely sensitive to people watching me. I knew this be
 **Link(s) to work**
 
 - [Jared Watts Photography website](https://jaredwattsphotography.com/)
+
+### Day 4: Thursday - September 15, 2022
+
+**Today's Progress**: Wrapped up Webflow site experiment by updating favicon and webclip logos, and trying to update site metadata and logos on the Wordpress site just for how search engine results look. Not sure if it was successful, but it's time for me to move on.
+
+Read Godot article on their version 4 beta release. Started a new project plan to complete a game for Halloween by October 24. I decided to try and be smart about tackling that goal and looked up strategies to manage game projects, and found a video on [HeartBeast's Production Point](https://www.youtube.com/watch?v=NsMHicoZTzQ) management paradigm, and I've decided to use it for this little project.
+
+**Link(s) to work**
+
+- [Game plan](https://www.notion.so/Halloween-2022-064f5318735a4ea2930de12a7e960207)
