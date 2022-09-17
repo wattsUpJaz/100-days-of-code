@@ -43,3 +43,13 @@ Read Godot article on their version 4 beta release. Started a new project plan t
 **Link(s) to work**
 
 - [Game plan](https://www.notion.so/Halloween-2022-064f5318735a4ea2930de12a7e960207)
+
+### Day 5: Friday - September 16, 2022
+
+**Today's Progress**: Did a lot of research on game mechanics and other games to draw inspiration from. Set up a basic Godot 4.0 project with 2.5D look. I'm thinking of going the Don't Starve route with the game right now.
+
+**Thoughts**: Developing good game mechanics is hard. That's kind of obvious, but I'm feeling it a lot right now. I am very worried about over-scoping this game, and of not making an interesting game mechanic the center of the game. I think maybe I'm getting too ambitious with the story maybe, and leaning on it too much to carry the game. That's why I'm gonna just start building, and see what happens. I'm going to try to have people play test it as much as possible.
+
+**Link to work**
+
+- [Godot Project Repo](https://github.com/wattsUpJaz/Halloween2022)
