@@ -53,3 +53,11 @@ Read Godot article on their version 4 beta release. Started a new project plan t
 **Link to work**
 
 - [Godot Project Repo](https://github.com/wattsUpJaz/Halloween2022)
+
+### Day 6: Saturday - September 17, 2022
+
+**Today's Progress**: Got Godot's 4.0 language server working with VS Code again (changed port to 6005 according to [this](https://github.com/godotengine/godot-vscode-plugin/issues/244)). Got basic inventory system set up and experimented with varying player movement speed based on "health".
+
+**Thoughts**: I don't think that mechanic is very fun. It might work better if it makes the player spaz around a little. I'll try that tomorrow. I also need to nail down the driving emotions of the game, because I think that'll help steer the types of mechanics that I create.
+
+- [Godot Project Repo](https://github.com/wattsUpJaz/Halloween2022)
