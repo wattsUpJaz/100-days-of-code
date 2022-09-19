@@ -61,3 +61,11 @@ Read Godot article on their version 4 beta release. Started a new project plan t
 **Thoughts**: I don't think that mechanic is very fun. It might work better if it makes the player spaz around a little. I'll try that tomorrow. I also need to nail down the driving emotions of the game, because I think that'll help steer the types of mechanics that I create.
 
 - [Godot Project Repo](https://github.com/wattsUpJaz/Halloween2022)
+
+### Day 7: Sunday - September 18, 2022
+
+**Today's Progress**: Impelemented a mechanic where once player health drops below 50, a random direction is added/subtracted in the x and y/z directions. This makes the movement unpredictable and jittery. It's not very fun to move around with. It feels mostly just like a bug. Also brainstormed the emotions of Halloween so that I can try to use those as inspiration for game mechanics.
+
+**Thoughts**: Creating game mechanics is hard, and I feel myself slowing down and getting stuck. Tomorrow I'll need to do some research on cool game mechanics, and then brainstorm a bunch and make a little list of ones to test out.
+
+Feeling a little discouraged about the task of figuring out a game mechanic that is solid. I'm worried I don't have it in my to figure out.
