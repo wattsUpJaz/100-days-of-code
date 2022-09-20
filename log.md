@@ -69,3 +69,9 @@ Read Godot article on their version 4 beta release. Started a new project plan t
 **Thoughts**: Creating game mechanics is hard, and I feel myself slowing down and getting stuck. Tomorrow I'll need to do some research on cool game mechanics, and then brainstorm a bunch and make a little list of ones to test out.
 
 Feeling a little discouraged about the task of figuring out a game mechanic that is solid. I'm worried I don't have it in my to figure out.
+
+### Day 8: Monday - September 19, 2022
+
+**Today's Progress**: Did a LOT of research into game mechanics and player stats and stuff. Hashed out some mechanics.
+
+**Thoughts**: It felt like a step back taking time to figure out mechanics, but it's important I think, and I think it's helping me move forward.
