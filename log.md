@@ -75,3 +75,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 **Today's Progress**: Did a LOT of research into game mechanics and player stats and stuff. Hashed out some mechanics.
 
 **Thoughts**: It felt like a step back taking time to figure out mechanics, but it's important I think, and I think it's helping me move forward.
+
+### Day 9: Tuesday - September 20, 2022
+
+**Today's Progress**: Finally have a plan. Wittled the plan down to an MVP. Implemented basic player stats (health, food, stamina, and courage) and created items (pumpkin, acorn, dandelion, taffy). Switched Sprite3Ds to be in Billboard mode instead of manually setting their rotation.
+
+**Thoughts**: I definitely went psycho on the scope of this. Luckily I realized it and scoped it way down to an MVP. I got a lot done today. Having a clear plan really really helped the programming for me. I'm still not sure how fun it will all turn out though. We will see.
