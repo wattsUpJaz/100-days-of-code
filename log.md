@@ -81,3 +81,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 **Today's Progress**: Finally have a plan. Wittled the plan down to an MVP. Implemented basic player stats (health, food, stamina, and courage) and created items (pumpkin, acorn, dandelion, taffy). Switched Sprite3Ds to be in Billboard mode instead of manually setting their rotation.
 
 **Thoughts**: I definitely went psycho on the scope of this. Luckily I realized it and scoped it way down to an MVP. I got a lot done today. Having a clear plan really really helped the programming for me. I'm still not sure how fun it will all turn out though. We will see.
+
+### Day 10: Wednesday - September 21, 2022
+
+**Today's Progress**: Learned a lot about random number generation and noise. [This article](https://www.redblobgames.com/articles/noise/introduction.html) was super helpful in understanding the differences between the colors of noise. Studied [GDQuest's procedural generation repo](https://github.com/GDQuest/godot-procedural-generation) A LOT. Learned that calculating distances using squared values is better (to avoid the square root computation, so it's much faster). Started to learn abour viewports, but didn't figure it out.
+
+**Thoughts**: Starting to get overwhelmed again. I think I overscoped on this procedural generation thing. I think I gotta take a step back maybe.
