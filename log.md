@@ -87,3 +87,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 **Today's Progress**: Learned a lot about random number generation and noise. [This article](https://www.redblobgames.com/articles/noise/introduction.html) was super helpful in understanding the differences between the colors of noise. Studied [GDQuest's procedural generation repo](https://github.com/GDQuest/godot-procedural-generation) A LOT. Learned that calculating distances using squared values is better (to avoid the square root computation, so it's much faster). Started to learn abour viewports, but didn't figure it out.
 
 **Thoughts**: Starting to get overwhelmed again. I think I overscoped on this procedural generation thing. I think I gotta take a step back maybe.
+
+### Day 11: Thursday - September 22, 2022
+
+**Today's Progress**: Struggled to get the SubViewport to work in Godot 4.0 with the Viewport Texture. It would show up in the editor, but on build it would just look like a solid color. It worked for a second, but then broke again, so I have a feeling it's because I'm using the beta 4.0 version.
+
+**Thoughts**: Might switch back to the stable version of Godot for this project. I'm running into a lot of obstacles, and I just want to make something fast. Jared said some stuff about maybe me holding myself back by not working with people right now. It hurt to hear, but I think he's right to a degree. It hurts because I've been trying so hard lately, and I feel like I've figured some important stuff out. I feel like what he said means I may need to pivot again, and I'm so tired of pivoting into something new all the time and not finishing anything. Lots of not nice feelings today.
