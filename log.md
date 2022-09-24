@@ -93,3 +93,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 **Today's Progress**: Struggled to get the SubViewport to work in Godot 4.0 with the Viewport Texture. It would show up in the editor, but on build it would just look like a solid color. It worked for a second, but then broke again, so I have a feeling it's because I'm using the beta 4.0 version.
 
 **Thoughts**: Might switch back to the stable version of Godot for this project. I'm running into a lot of obstacles, and I just want to make something fast. Jared said some stuff about maybe me holding myself back by not working with people right now. It hurt to hear, but I think he's right to a degree. It hurts because I've been trying so hard lately, and I feel like I've figured some important stuff out. I feel like what he said means I may need to pivot again, and I'm so tired of pivoting into something new all the time and not finishing anything. Lots of not nice feelings today.
+
+### Day 12: Friday - September 23, 2022
+
+**Today's Progress**: Remade the project in 2D to avoid issues I was running into with 3D. Created basic enemy AI and HUD and player.
+
+**Thoughts**: Today was hard. Did something though. Really reconsidering if I'm on the right track or not with this game dev thing. I try so hard, but in the end it doesn't really matter (hahaaa I'm crying).
