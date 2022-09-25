@@ -99,3 +99,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 **Today's Progress**: Remade the project in 2D to avoid issues I was running into with 3D. Created basic enemy AI and HUD and player.
 
 **Thoughts**: Today was hard. Did something though. Really reconsidering if I'm on the right track or not with this game dev thing. I try so hard, but in the end it doesn't really matter (hahaaa I'm crying).
+
+### Day 13: Saturday - September 24, 2022
+
+**Today's Progress**: Fixed enemy script to be much more understandable. It resembles a quick and dirty state machine. I need to do it for the player. Player stun mechanic is broken, and the code is so bad I can't figure out where to add anything. Made art for player and enemy also.
+
+**Thoughts**: Art is good for the soul. Things are still hard, but doing a little bit of art gave me so hope.
