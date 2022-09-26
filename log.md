@@ -104,4 +104,12 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 
 **Today's Progress**: Fixed enemy script to be much more understandable. It resembles a quick and dirty state machine. I need to do it for the player. Player stun mechanic is broken, and the code is so bad I can't figure out where to add anything. Made art for player and enemy also.
 
-**Thoughts**: Art is good for the soul. Things are still hard, but doing a little bit of art gave me so hope.
+**Thoughts**: Art is good for the soul. Things are still hard, but doing a little bit of art gave me some hope.
+
+### Day 14: Sunday - September 25, 2022
+
+**Today's Progress**: Fixed the player script and the capture mechanic for the enemy. Added stun and waking mechanic for player. This quick n' dirty state machine pattern is working well for me so far. Made a stun/fainting animation for the player.
+
+Forgot to mention I learned about BOIDs the other day. I want to make some for my game. They're so fun looking.
+
+**Thoughts**: Made it to 2 weeks! The player and enemy interaction is feeling a lot more fun. The capture mechanic is kinna cool. I'm hoping that with all the art it might actually resemble a decently fun game to play. I still feel like an imposter, but I've resolved that there is no immediate action for me to take on it right now, so I'm just gonna keep going. I feel proud that I've made it 2 weeks having worked on code every day. This log thing is really helping me stay focussed.
