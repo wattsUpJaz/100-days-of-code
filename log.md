@@ -116,6 +116,8 @@ Forgot to mention I learned about BOIDs the other day. I want to make some for m
 
 ### Day 15: Monday - September 26, 2022
 
-**Today's Progress**: Hooked up the animations for the enemy and player, and created the witch's house with basic mechanics and art. Tweaked the enemy mechanics / hit areas to work with the sprite (instead of the polygon2D) and added Y-Sort (this was way easier than I was expecting.
+**Today's Progress**: Hooked up the animations for the enemy and player, and created the witch's house with basic mechanics and art. Tweaked the enemy mechanics / hit areas to work with the sprite (instead of the polygon2D) and added Y-Sort (this was way easier than I was expecting. Did a little bit of planning for the future.
 
 **Thoughts**: I feel like I put a lot of hard work in today, but I don't feel super satisfied. Adding the art makes the game feel much more real, but I'm very nervous about the overall feel. Tt's still feeling pretty amateur-ish to me I think. Ugh. Small wins I guess.
+
+I need to figure out the Navigation server at some point so the enemy navigates around obstacles. That's going to be a beast.
