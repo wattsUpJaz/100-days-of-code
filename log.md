@@ -113,3 +113,9 @@ Feeling a little discouraged about the task of figuring out a game mechanic that
 Forgot to mention I learned about BOIDs the other day. I want to make some for my game. They're so fun looking.
 
 **Thoughts**: Made it to 2 weeks! The player and enemy interaction is feeling a lot more fun. The capture mechanic is kinna cool. I'm hoping that with all the art it might actually resemble a decently fun game to play. I still feel like an imposter, but I've resolved that there is no immediate action for me to take on it right now, so I'm just gonna keep going. I feel proud that I've made it 2 weeks having worked on code every day. This log thing is really helping me stay focussed.
+
+### Day 15: Monday - September 26, 2022
+
+**Today's Progress**: Hooked up the animations for the enemy and player, and created the witch's house with basic mechanics and art. Tweaked the enemy mechanics / hit areas to work with the sprite (instead of the polygon2D) and added Y-Sort (this was way easier than I was expecting.
+
+**Thoughts**: I feel like I put a lot of hard work in today, but I don't feel super satisfied. Adding the art makes the game feel much more real, but I'm very nervous about the overall feel. Tt's still feeling pretty amateur-ish to me I think. Ugh. Small wins I guess.
