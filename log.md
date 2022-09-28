@@ -121,3 +121,9 @@ Forgot to mention I learned about BOIDs the other day. I want to make some for m
 **Thoughts**: I feel like I put a lot of hard work in today, but I don't feel super satisfied. Adding the art makes the game feel much more real, but I'm very nervous about the overall feel. Tt's still feeling pretty amateur-ish to me I think. Ugh. Small wins I guess.
 
 I need to figure out the Navigation server at some point so the enemy navigates around obstacles. That's going to be a beast.
+
+### Day 16: Tuesday - September 27, 2022
+
+**Today's Progress**: Fixed enemy + player + witch house interactions so that they're cleaner and enemies can interact with each other without breaking everything. Created a prototype of the spell casting mini game.
+
+**Thoughts**: The mini game is kind of cool, but it feels just a little to hard to grasp right now. Maybe I'll simplify it down in the beginning. Writing down a list of things to do yesterday really helped me tackle the harder problems today. I was really dreading figuring out that mini game, but I made a lot of progress on it today, even though it still feels funky. I think I do the very detailed work and the very high level work descently. It's this middle ground where the prototypes need to make the jump into finished product that's killing me. I'm very nervous that my work will only ever feel amateur-ish. Hey, I'm still here trying though. Trying as hard as I can.
