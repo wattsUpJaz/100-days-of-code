@@ -124,6 +124,12 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 
 ### Day 16: Tuesday - September 27, 2022
 
-**Today's Progress**: Fixed enemy + player + witch house interactions so that they're cleaner and enemies can interact with each other without breaking everything. Created a prototype of the spell casting mini game.
+**Today's Progress**: Fixed enemy + player + witch house interactions so that they're cleaner and enemies can interact with each other without breaking everything. Created a prototype of the spell casting mini game. Learned how to use [Line2D](https://www.youtube.com/watch?v=bqyDm0MmGqg)
 
 **Thoughts**: The mini game is kind of cool, but it feels just a little to hard to grasp right now. Maybe I'll simplify it down in the beginning. Writing down a list of things to do yesterday really helped me tackle the harder problems today. I was really dreading figuring out that mini game, but I made a lot of progress on it today, even though it still feels funky. I think I do the very detailed work and the very high level work descently. It's this middle ground where the prototypes need to make the jump into finished product that's killing me. I'm very nervous that my work will only ever feel amateur-ish. Hey, I'm still here trying though. Trying as hard as I can.
+
+### Day 17: Wednesday - September 28, 2022
+
+**Today's Progress**: Refactored the spell casting movement logic so that it feels much more intuitive. Started experimenting with ways to integrate it into the main scene, but didn't get very far. Accidentally ran `git reset --hard` on my branch before adding or commiting any of my changes. Luckily I had all the new spell casting stuff in a new folder that was untracked, so git didn't touch it. I'm such an idiot. Also, I hate not being able to use VS Code as my editor without Godot freaking out and crashing every five minutes.
+
+**Thoughts**: I suck, but I'm not gonna settle for suck. Just gonna keep drilling at this thing until something breaks or I hit a diamond or something, I don't know this analogy is not good. I think I need to make a devlog about this game thing and maybe try to get it out by October 1, cuz Halloween month and whatnot. That's two days. Yeeeikes.
