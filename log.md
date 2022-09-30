@@ -133,3 +133,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Refactored the spell casting movement logic so that it feels much more intuitive. Started experimenting with ways to integrate it into the main scene, but didn't get very far. Accidentally ran `git reset --hard` on my branch before adding or commiting any of my changes. Luckily I had all the new spell casting stuff in a new folder that was untracked, so git didn't touch it. I'm such an idiot. Also, I hate not being able to use VS Code as my editor without Godot freaking out and crashing every five minutes.
 
 **Thoughts**: I suck, but I'm not gonna settle for suck. Just gonna keep drilling at this thing until something breaks or I hit a diamond or something, I don't know this analogy is not good. I think I need to make a devlog about this game thing and maybe try to get it out by October 1, cuz Halloween month and whatnot. That's two days. Yeeeikes.
+
+### Day 18: Thursday - September 29, 2022
+
+**Today's Progress**: Connected the spell casting mini game and the main game. Haven't implemented the spell effects yet though. Made a tileset that's broken. Tried to add a shadow shader, but that didn't work either.
+
+**Thoughts**: Game development is hard and dumb. Like shaders??? What the acgtual flaamingo. Why am I doing this.
