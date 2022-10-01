@@ -138,4 +138,10 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 
 **Today's Progress**: Connected the spell casting mini game and the main game. Haven't implemented the spell effects yet though. Made a tileset that's broken. Tried to add a shadow shader, but that didn't work either.
 
-**Thoughts**: Game development is hard and dumb. Like shaders??? What the acgtual flaamingo. Why am I doing this.
+**Thoughts**: Game development is hard and dumb. Like shaders??? What the actual flamingo. Why am I doing this.
+
+### Day 19: Friday - September 30, 2022
+
+**Today's Progress**: Added spell effect that damages enemies. Made the logic for hiding and showing the spell caster better (Player can't cast spells while stunned or waking). Player doesn't move when spell caster is open. Collider for witch house still broken.
+
+**Thoughts**: Waking up early is nice. Game feels... too hard? Too easy? Too awkward? Yeah, too awkward. And unfortantely, I don't really know how to fix that right now.
