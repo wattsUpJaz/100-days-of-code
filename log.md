@@ -145,3 +145,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Added spell effect that damages enemies. Made the logic for hiding and showing the spell caster better (Player can't cast spells while stunned or waking). Player doesn't move when spell caster is open. Collider for witch house still broken.
 
 **Thoughts**: Waking up early is nice. Game feels... too hard? Too easy? Too awkward? Yeah, too awkward. And unfortantely, I don't really know how to fix that right now.
+
+### Day 20: Sat/Sun - October 1-2, 2022
+
+**Today's Progress**: Didn't work on stuff a ton during the weekend, but tweaked player-enemy-spell interactions a tiny bit. Filmed a devlog and got through the rough edit.
+
+**Thoughts**: Personal life needed some TLC this weekend, so it wasn't super productive in the game department. It was very productive in the rest and recovery department though, so that's a win. Tomorrow's goals are to finish the devlog, release it, and get back at programming.
