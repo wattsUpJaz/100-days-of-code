@@ -151,3 +151,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Didn't work on stuff a ton during the weekend, but tweaked player-enemy-spell interactions a tiny bit. Filmed a devlog and got through the rough edit.
 
 **Thoughts**: Personal life needed some TLC this weekend, so it wasn't super productive in the game department. It was very productive in the rest and recovery department though, so that's a win. Tomorrow's goals are to finish the devlog, release it, and get back at programming.
+
+### Day 21: Monday - October 3, 2022
+
+**Today's Progress**: Finished the devlog today. Learned some new git commands while poking around my repo history. `git checkout [commit hash]` checks you out at a certain commit. `git checkout *` discards any changes you have.
+
+**Thoughts**: Making videos takes so long it's almost painful. But, I think I get a lot of satisfaction from it. I'm too tired right now to know for sure though.
