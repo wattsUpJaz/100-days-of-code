@@ -157,3 +157,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Finished the devlog today. Learned some new git commands while poking around my repo history. `git checkout [commit hash]` checks you out at a certain commit. `git checkout *` discards any changes you have.
 
 **Thoughts**: Making videos takes so long it's almost painful. But, I think I get a lot of satisfaction from it. I'm too tired right now to know for sure though.
+
+### Day 22: Tuesday - October 4, 2022
+
+**Today's Progress**: Worked up the courage to try and tackle lighting. It didn't go super great.
+
+**Thoughts**: Progress was slow today, but I'm still trying. Lighting and a day-night cycle now, then shaders for when the player is behind stuff, then spawning enemies in shadows. So much more to do, holy moly.
