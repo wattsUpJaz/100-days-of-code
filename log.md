@@ -163,3 +163,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Worked up the courage to try and tackle lighting. It didn't go super great.
 
 **Thoughts**: Progress was slow today, but I'm still trying. Lighting and a day-night cycle now, then shaders for when the player is behind stuff, then spawning enemies in shadows. So much more to do, holy moly.
+
+### Day 23: Wednesday - October 5, 2022
+
+**Today's Progress**: Turns out the problem I was running into yesterday is actually a [recorded bug](https://github.com/godotengine/godot/issues/64939), which unfortunately means what I'm trying to do is impossible right now. BUT, I found a workaround pretty soon after, because I have a problem with proving people wrong when they say something is impossible.
+
+**Thoughts**: Slow progress, but when there's a will there's a way. Also, people are so nice on Youtube. At least, the one's that I've interacted with so far are. I'm not feeling confident in my ability to turn this into a real game still though. And also second guessing how unique the game mechanic actually is. Maybe it isn't at all.
