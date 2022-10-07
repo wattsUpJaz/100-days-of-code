@@ -169,3 +169,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Turns out the problem I was running into yesterday is actually a [recorded bug](https://github.com/godotengine/godot/issues/64939), which unfortunately means what I'm trying to do is impossible right now. BUT, I found a workaround pretty soon after, because I have a problem with proving people wrong when they say something is impossible.
 
 **Thoughts**: Slow progress, but when there's a will there's a way. Also, people are so nice on Youtube. At least, the one's that I've interacted with so far are. I'm not feeling confident in my ability to turn this into a real game still though. And also second guessing how unique the game mechanic actually is. Maybe it isn't at all.
+
+### Day 24: Thursday - October 6, 2022
+
+**Today's Progress**: Tackled the navigation server and made the enemies move around the house and into it when they capture the player. This [video by bitbrain](https://www.youtube.com/watch?v=_MTJ9Qz0gJk) was awesome. Fixed bug with spell casting (spell caster would stay open when the player was stunned). Figured out something that will work for lighting, and created a scene for the day-night cycle. Updated to-do list to stay focused.
+
+**Thoughts**: Progress was better today. I really avoid the things that are most important to do, usually because they are the most intimidating too. Writing them down really helped me jump into figuring them out. Found some good inspiration in Cult of the Lamb for art style (cute and creepy), and Arx Fatalis for spell casting.
