@@ -174,4 +174,10 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 
 **Today's Progress**: Tackled the navigation server and made the enemies move around the house and into it when they capture the player. This [video by bitbrain](https://www.youtube.com/watch?v=_MTJ9Qz0gJk) was awesome. Fixed bug with spell casting (spell caster would stay open when the player was stunned). Figured out something that will work for lighting, and created a scene for the day-night cycle. Updated to-do list to stay focused.
 
-**Thoughts**: Progress was better today. I really avoid the things that are most important to do, usually because they are the most intimidating too. Writing them down really helped me jump into figuring them out. Found some good inspiration in Cult of the Lamb for art style (cute and creepy), and Arx Fatalis for spell casting.
+**Thoughts**: Progress was better today. I really avoid the things that are most important to do, usually because they are the most intimidating too. Writing them down really helped me jump into figuring them out. Found some good inspiration in Cult of the Lamb for art style (cute and creepy), and [Arx Fatalis](https://www.youtube.com/watch?v=Valmsq_Ku90) for spell casting.
+
+### Day 25: Friday - October 7, 2022
+
+**Today's Progress**: Fixed player light occluder to change when the player is stunned. Implemented day counter. Learned that the Godot editor highlights type-safe lines in green (I have a lot of not type safe lines). Researched shaders but didn't do anything with what I learned. Started implementing death state for enemies (need to finish tomorrow). Tried to add a tilemap layer for grasses that were y sorted. It didn't work.
+
+**Thoughts**: Started a lot of random stuff today, but didn't really complete much. I get distracted sooo easily. I really need to focus if I'm going to get this game looking decent in two weeks.
