@@ -181,3 +181,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Fixed player light occluder to change when the player is stunned. Implemented day counter. Learned that the Godot editor highlights type-safe lines in green (I have a lot of not type safe lines). Researched shaders but didn't do anything with what I learned. Started implementing death state for enemies (need to finish tomorrow). Tried to add a tilemap layer for grasses that were y sorted. It didn't work.
 
 **Thoughts**: Started a lot of random stuff today, but didn't really complete much. I get distracted sooo easily. I really need to focus if I'm going to get this game looking decent in two weeks.
+
+### Day 26: Saturday - October 8, 2022
+
+**Today's Progress**: Fought with tilemap y-sorting grass blades. May have discovered a bug in Godot 4 where y-sorted objects interact in a weird way when their parent and them indiviually have y-sort enabled. Sprites would appear on top when they should be underneath, and then update to be correct when they overlapped enough. More investigation needed. Worked on spell casting art a little.
+
+**Thoughts**: Decided to give up on making grass blades for the environment because of the way y-sort was acting. I was able to get it working, but at the expense of the other scene sprites interacting very oddly with each other. Maybe I'll try re-ordering the scene tree later to see if that helps anything.
