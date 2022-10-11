@@ -187,3 +187,9 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: Fought with tilemap y-sorting grass blades. May have discovered a bug in Godot 4 where y-sorted objects interact in a weird way when their parent and them indiviually have y-sort enabled. Sprites would appear on top when they should be underneath, and then update to be correct when they overlapped enough. More investigation needed. Worked on spell casting art a little.
 
 **Thoughts**: Decided to give up on making grass blades for the environment because of the way y-sort was acting. I was able to get it working, but at the expense of the other scene sprites interacting very oddly with each other. Maybe I'll try re-ordering the scene tree later to see if that helps anything.
+
+### Day 26: Sun/Mon - October 9-10, 2022
+
+**Today's Progress**: The turn-off filtering on import equivalent is now in Project Settings > Default Texture Filter, and setting it to Nearest. Tilesets still flicker once in awhile though. I think [this github issue](https://github.com/godotengine/godot/issues/55006) is the one I'm running into. Recreated the tileset and started working on updating the character. Added spell assets.
+
+**Thoughts**: Art made me mad today. It's so difficult making art that lives up to the standard you have in your head. I fell waaaayyy short today. Oh well.
