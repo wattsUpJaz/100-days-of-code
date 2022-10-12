@@ -193,3 +193,13 @@ I need to figure out the Navigation server at some point so the enemy navigates 
 **Today's Progress**: The turn-off filtering on import equivalent is now in Project Settings > Default Texture Filter, and setting it to Nearest. Tilesets still flicker once in awhile though. I think [this github issue](https://github.com/godotengine/godot/issues/55006) is the one I'm running into. Recreated the tileset and started working on updating the character. Added spell assets.
 
 **Thoughts**: Art made me mad today. It's so difficult making art that lives up to the standard you have in your head. I fell waaaayyy short today. Oh well.
+
+### Day 27: Tuesday - October 11, 2022
+
+**Today's Progress**: Fought with art again. Fixed the above github issue by making the tiles 1 pixel smaller than they are on the atlas so that there's a 1 px margin around. From the issue it seemed like the flicker was being caused by the engine needing to sample from outside the tile area. Giving the tile a buffer seemed to fix it.
+
+Recreated the main character and witch house. Fought with y sort and the tilemap. I can not figure out how to make them work together without adding the player as a child of the tilemap. I ended up following [this reddit thread](https://www.reddit.com/r/godot/comments/vg5xfn/how_does_ysort_work_in_godot_4/).
+
+Added mouth to house. Added trees.
+
+**Thoughts**: Figuring out how to make a world look full is really hard. So far I feel like I'm failing pretty thoroughly at it. I'm starting to get really worried that I'm not going to be able to make this game fun in the amount of time I have. I'm worried that for it to be fun will require lots of content, and I just don't have time to make a bunch of content. I think I need to really plan out my next steps a lot tomorrow.
