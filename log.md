@@ -203,3 +203,9 @@ Recreated the main character and witch house. Fought with y sort and the tilemap
 Added mouth to house. Added trees.
 
 **Thoughts**: Figuring out how to make a world look full is really hard. So far I feel like I'm failing pretty thoroughly at it. I'm starting to get really worried that I'm not going to be able to make this game fun in the amount of time I have. I'm worried that for it to be fun will require lots of content, and I just don't have time to make a bunch of content. I think I need to really plan out my next steps a lot tomorrow.
+
+### Day 28: Wednesday - October 12, 2022
+
+**Today's Progress**: Got a plan together (it's way too big). Pretty sure I found a bug with Godot crashing when you try to use a Tilemap navigation layer and a NavigationRegion2D node together. But, maybe you're not suppose to do that anyway. Made a million tiny changes to tilesets to try and get it looking good. Unfortunately, so far nothing's done the trick.
+
+**Thoughts**: I really should have listened when I was told to leave the art alone for the time being. But I just keep feeling like I'm so close to getting it right. I want to watch this [video by AdamCYounis](https://www.youtube.com/watch?v=2JCG4fCmeHk&t=125s) tomorrow for help on desiging top-down art. Also ask some advice from people. So much to do, so much to do. But I usually get most everything done in the last couple days of game jams, so maybe that'll happen with this too.
