@@ -209,3 +209,11 @@ Added mouth to house. Added trees.
 **Today's Progress**: Got a plan together (it's way too big). Pretty sure I found a bug with Godot crashing when you try to use a Tilemap navigation layer and a NavigationRegion2D node together. But, maybe you're not suppose to do that anyway. Made a million tiny changes to tilesets to try and get it looking good. Unfortunately, so far nothing's done the trick.
 
 **Thoughts**: I really should have listened when I was told to leave the art alone for the time being. But I just keep feeling like I'm so close to getting it right. I want to watch this [video by AdamCYounis](https://www.youtube.com/watch?v=2JCG4fCmeHk&t=125s) tomorrow for help on desiging top-down art. Also ask some advice from people. So much to do, so much to do. But I usually get most everything done in the last couple days of game jams, so maybe that'll happen with this too.
+
+### Day 29: Thursday - October 13, 2022
+
+**Today's Progress**: Worked on art all today again. Mia is a life saver. Removed sun scene with shadows and used simple lamp + canvas modulate with no shadows. Updated art assets by adding drop shadows to everything, adding shadows on the objects, creating trees, tweaking the modulate on the tilemap layers, fixing the collision shapes, recreating the leaves tileset, and updating the player's outfit.
+
+Note: I need to go back and delete all the .import files that were created from all the different versions of assets I tried.
+
+**Thoughts:** Watching top-down tilemap tutorial videos helped a lot, but I was still hitting dead-ends. Mia really helped identify why it was looking so funky, and helping tweak the colors to compliment each other while still making the player stand out. She has incredible skill with color. I am so grateful for her help with figuring out how to make the scene work. I feel like I can finally move forward with assembling the rest of the game now. I'm relieved, and also freaked out at how much I'll need to tackle in the next week.
