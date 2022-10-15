@@ -217,3 +217,9 @@ Added mouth to house. Added trees.
 Note: I need to go back and delete all the .import files that were created from all the different versions of assets I tried.
 
 **Thoughts:** Watching top-down tilemap tutorial videos helped a lot, but I was still hitting dead-ends. Mia really helped identify why it was looking so funky, and helping tweak the colors to compliment each other while still making the player stand out. She has incredible skill with color. I am so grateful for her help with figuring out how to make the scene work. I feel like I can finally move forward with assembling the rest of the game now. I'm relieved, and also freaked out at how much I'll need to tackle in the next week.
+
+### Day 30: Friday - October 14, 2022
+
+**Today's Progress**: Got most of the intro scene figured out. Created a dialog system. Created sooo many area triggers. The frame rate drops sometimes and I'm not sure why. I'll need to investigate using the profiler at some point and look into optimization.
+
+**Thoughts**: I'm feeling overwhelmed and worried about burning out on this project. I think I bit off more than I can chew, but I feel that deep down I'm committed to trying to pull it off. That scares me a bit, because there is just so much. The art will probably be my downfall. I don't think I'll be able to get it done as fast as I'm hoping I will, but that's my brain talking. My heart is idiotically optimistic about how quickly I'll figure stuff out. I guess that's kind of a nice problem to have. I try a lot of things because of it, and go farther than I think I would otherwise. But, I do a lot of unnecessary suffering because of it too.
