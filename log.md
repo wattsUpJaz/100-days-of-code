@@ -223,3 +223,18 @@ Note: I need to go back and delete all the .import files that were created from 
 **Today's Progress**: Got most of the intro scene figured out. Created a dialog system. Created sooo many area triggers. The frame rate drops sometimes and I'm not sure why. I'll need to investigate using the profiler at some point and look into optimization.
 
 **Thoughts**: I'm feeling overwhelmed and worried about burning out on this project. I think I bit off more than I can chew, but I feel that deep down I'm committed to trying to pull it off. That scares me a bit, because there is just so much. The art will probably be my downfall. I don't think I'll be able to get it done as fast as I'm hoping I will, but that's my brain talking. My heart is idiotically optimistic about how quickly I'll figure stuff out. I guess that's kind of a nice problem to have. I try a lot of things because of it, and go farther than I think I would otherwise. But, I do a lot of unnecessary suffering because of it too.
+
+### Day 31: Saturday - October 15, 2022
+
+**Today's Progress**:
+
+- Fixed bug with the enemies. They all return the house when the player is captured now (I was conditionally setting the house location, and enemies that weren't attacking never got the house location set as their target).
+- Turned off collect ability on player when they're stunned.
+- Offset timing of enemy move animation so that they don't all sync together in game.
+- Removed house camera and just made a trigger for it in the intro scene.
+- Added deactivation of enemy when they enter the house so that other enemies can enter.
+- Fixed y-sorting of player, house, and enemies so they work with the tileset. I have no idea when that got out of sync, because it was working earlier.
+
+Will work on the witch house interior assets, but will be done with coding for today.
+
+**Thoughts**: Getting out and hiking was so good for the soul today, in so many ways. I read an [article by stuffed wombat]("https://stuffedwomb.at/producering_10") on using pomodoro (or whatever) methods to help him(?) be super productive, so I tried that this evening. Suprisingly I think it helped a bit. I got all the coding above done in about an hour I think. I wasn't super good at keeping a detailed plan of what I was doing/going to do, and I didn't take any breaks, but I didn't go for very long also, so it worked for me. I want to experiment with it more over the next few days.
