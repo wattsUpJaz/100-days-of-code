@@ -243,4 +243,13 @@ Will work on the witch house interior assets, but will be done with coding for t
 
 **Today's Progress**: Created base scene and tileset for witch house interior. Moved dialog controller to main world scene. Moved witch house assets to their own folder.
 
+Tomorrow's tasks include:
+
+- Set up spawn location for next scene so when you leave the house you spawn in front of it.
+- Finish art for witch house interior
+- Make maze mini game for leaving the house
+- Art for witch lady
+- Dialog sequence with witch
+- Die sequence if you fail the mini game
+
 **Thoughts**" One week left. Oh noooooo.
