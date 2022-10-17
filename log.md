@@ -238,3 +238,9 @@ Note: I need to go back and delete all the .import files that were created from 
 Will work on the witch house interior assets, but will be done with coding for today.
 
 **Thoughts**: Getting out and hiking was so good for the soul today, in so many ways. I read an [article by stuffed wombat]("https://stuffedwomb.at/producering_10") on using pomodoro (or whatever) methods to help him(?) be super productive, so I tried that this evening. Suprisingly I think it helped a bit. I got all the coding above done in about an hour I think. I wasn't super good at keeping a detailed plan of what I was doing/going to do, and I didn't take any breaks, but I didn't go for very long also, so it worked for me. I want to experiment with it more over the next few days.
+
+### Day 32: Sunday - October 16, 2022
+
+**Today's Progress**: Created base scene and tileset for witch house interior. Moved dialog controller to main world scene. Moved witch house assets to their own folder.
+
+**Thoughts**" One week left. Oh noooooo.
