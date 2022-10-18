@@ -252,4 +252,10 @@ Tomorrow's tasks include:
 - Dialog sequence with witch
 - Die sequence if you fail the mini game
 
-**Thoughts**" One week left. Oh noooooo.
+**Thoughts**: One week left. Oh noooooo.
+
+### Day 33: Monday - October 17, 2022
+
+**Today's Progress**: Created art for decorations inside the witch's house and figured out how to export them all as separate assets. Tried to place them using Tilemap, but I needed more freedom in where they're placed, so I'll place them as sprites. Didn't get to basically everything on the list above. I saw that coming though.
+
+**Thoughts**: I'm entertaining the idea that I won't finish this more and more. And, maybe that's okay. I'm gonna make a good push for it, but there's just so much. Like soooo much.
