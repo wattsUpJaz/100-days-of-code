@@ -259,3 +259,14 @@ Tomorrow's tasks include:
 **Today's Progress**: Created art for decorations inside the witch's house and figured out how to export them all as separate assets. Tried to place them using Tilemap, but I needed more freedom in where they're placed, so I'll place them as sprites. Didn't get to basically everything on the list above. I saw that coming though.
 
 **Thoughts**: I'm entertaining the idea that I won't finish this more and more. And, maybe that's okay. I'm gonna make a good push for it, but there's just so much. Like soooo much.
+
+### Day 34: Tuesday - October 18, 2022
+
+**Today's Progress**:
+
+- Pretty sure I found a legit bug. Godot crashes when you rename folders/files when scenes that use those paths/files are open.
+- Used noise for the first time to make light flicker. Followed [this article](https://www.phonoforest.com/2020/05/7-second-tutorial-smooth-flickering.html) by Phono Forest.
+- Finished designing the scene for inside the witch's house with props and lighting and an actualy witch.
+- Actually created a mini game for escaping the witch's house (I really didn't think that one was going to happen). It's not hooked up yet though.
+
+**Thoughts**: My wrist hurts from using my mouse. And my brain feels extremely fuzzy. But I got a lot done today, and I ate delicious curry. I'm trying to keep the panic from wrecking havoc on everything, but I feel there, waiting, building. Horrible.
