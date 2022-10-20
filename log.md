@@ -270,3 +270,14 @@ Tomorrow's tasks include:
 - Actually created a mini game for escaping the witch's house (I really didn't think that one was going to happen). It's not hooked up yet though.
 
 **Thoughts**: My wrist hurts from using my mouse. And my brain feels extremely fuzzy. But I got a lot done today, and I ate delicious curry. I'm trying to keep the panic from wrecking havoc on everything, but I feel there, waiting, building. Horrible.
+
+### Day 35: Wednesday - October 19, 2022
+
+**Today's Progress**:
+
+- Used the new `super()` method to call parent methods. This isn't a new idea, but it use to be different in Godot 3
+- Hooked up mini game to scene
+- Created dialog for Witch
+- Used a legit shader for the first time. Just copied [this one](https://godotshaders.com/shader/ripple-shader/) by Nevoski
+- Added game state for difficulty and spawn locations
+- Need to create lose state for mini game
