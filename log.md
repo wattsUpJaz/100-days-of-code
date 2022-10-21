@@ -281,3 +281,12 @@ Tomorrow's tasks include:
 - Used a legit shader for the first time. Just copied [this one](https://godotshaders.com/shader/ripple-shader/) by Nevoski
 - Added game state for difficulty and spawn locations
 - Need to create lose state for mini game
+
+### Day 36: Wednesday - October 20, 2022
+
+**Today's Progress**:
+
+- Added basic lose state for mini game. This is the lose state for the whole game.
+- Make variable that turns the witch house door on an off.
+
+**Thoughts**: Today was a chill day, and was really nice. I'm watching a K-Drama rn, so my thoughts aren't super extensive...
