@@ -304,6 +304,14 @@ Tomorrow's tasks include:
 - Update witch house can_enter to use setter
 - Make witch house enterable in main loop scene
 
+Things to fix:
+
+- Weird pulsing of dizzy filter when entering witch house
+- Exiting witch house doesn't go to the right place
+- Could cast light spell early
+- Maybe light follows you for a little bit? Maybe it paints light down for a little bit. Either way, need to solve the problem of the light spell being too slow and needing to cast it too often.
+- Spell for damage is awkward with needing to press down twice.
+
 **Thoughts**: Pieces are coming together! I think that I'm realizing that the infrastructure I've created is helpful in making new mechanics and scenes. Things aren't taking nearly as long as they were a few days ago. That being said, I still don't think I'll be able to finish everything I wanted to. I'm realizing that I should've focussed waaayyy more on making the game loop fun before fitting in the narrative part. I was just so excited about the story telling (cry).
 
 I think my time would've been better spent adding content to the game loop (which is basically a survival zombie-type game-play) by creating different forms of enemies, more spells, and testing it a bunch to balance everything. Maybe there's still time for a little bit of that. I also still need to create the menu, UI, and sounds fx though. Ugh, this is gnarly. Fun, but wow so gnarly.
