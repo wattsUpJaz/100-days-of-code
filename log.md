@@ -282,7 +282,7 @@ Tomorrow's tasks include:
 - Added game state for difficulty and spawn locations
 - Need to create lose state for mini game
 
-### Day 36: Wednesday - October 20, 2022
+### Day 36: Thursday - October 20, 2022
 
 **Today's Progress**:
 
@@ -290,3 +290,20 @@ Tomorrow's tasks include:
 - Make variable that turns the witch house door on an off.
 
 **Thoughts**: Today was a chill day, and was really nice. I'm watching a K-Drama rn, so my thoughts aren't super extensive...
+
+### Day 37: Friday - October 21, 2022
+
+**Today's Progress**:
+
+- Updated spell casting design
+- Created spell book
+- Created wand collectable
+- Created main loop scene
+- Added active variable to spells
+- Differentiated light and damage spells
+- Update witch house can_enter to use setter
+- Make witch house enterable in main loop scene
+
+**Thoughts**: Pieces are coming together! I think that I'm realizing that the infrastructure I've created is helpful in making new mechanics and scenes. Things aren't taking nearly as long as they were a few days ago. That being said, I still don't think I'll be able to finish everything I wanted to. I'm realizing that I should've focussed waaayyy more on making the game loop fun before fitting in the narrative part. I was just so excited about the story telling (cry).
+
+I think my time would've been better spent adding content to the game loop (which is basically a survival zombie-type game-play) by creating different forms of enemies, more spells, and testing it a bunch to balance everything. Maybe there's still time for a little bit of that. I also still need to create the menu, UI, and sounds fx though. Ugh, this is gnarly. Fun, but wow so gnarly.
