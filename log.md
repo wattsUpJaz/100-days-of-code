@@ -315,3 +315,29 @@ Things to fix:
 **Thoughts**: Pieces are coming together! I think that I'm realizing that the infrastructure I've created is helpful in making new mechanics and scenes. Things aren't taking nearly as long as they were a few days ago. That being said, I still don't think I'll be able to finish everything I wanted to. I'm realizing that I should've focussed waaayyy more on making the game loop fun before fitting in the narrative part. I was just so excited about the story telling (cry).
 
 I think my time would've been better spent adding content to the game loop (which is basically a survival zombie-type game-play) by creating different forms of enemies, more spells, and testing it a bunch to balance everything. Maybe there's still time for a little bit of that. I also still need to create the menu, UI, and sounds fx though. Ugh, this is gnarly. Fun, but wow so gnarly.
+
+### Day 38: Saturday - October 22, 2022
+
+**Today's Progress**:
+
+- Fix weird pulsing dizzy shader
+- Make learning spells part of game state
+- Remove wands from main loop if you get it in intro scene
+- Remove dir for spell effects (too specific to have in interface)
+- Make light follow your direction for a little bit
+- Spell caster wand will automatically move to next point if key is held down
+- Tweak light spell so that it lasts longer and is brighter and fixed the y-sorting
+- Make spell effects wrap when player wraps
+- Add main loop for the witch house's interior.
+- Add basic dark forest scene
+
+Next:
+
+- Finish designing dark forest
+- Add finding damage spell
+- Fix damage spell look
+- Add enemies (make sure they can die)
+- Enemies far from house drag you and slowly fade your vision
+- Add small enemy?
+
+**Thoughts**: It felt good to get through those bugs today. Having my family playtest it as I go is really helpful, and I think it's helping me get better at recieving feedback in an objective way. As much as I want to be super objective about the work I do and how to make it better, in reality I'm pretty sensitive. I guess it's good I recognize that at least. Also, this environment is really good for practicing being more resilient and using the criticism as a way to improve. Everyone is super nice in the way they offer feedback and criticism.
