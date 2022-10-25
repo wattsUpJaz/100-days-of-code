@@ -341,3 +341,21 @@ Next:
 - Add small enemy?
 
 **Thoughts**: It felt good to get through those bugs today. Having my family playtest it as I go is really helpful, and I think it's helping me get better at recieving feedback in an objective way. As much as I want to be super objective about the work I do and how to make it better, in reality I'm pretty sensitive. I guess it's good I recognize that at least. Also, this environment is really good for practicing being more resilient and using the criticism as a way to improve. Everyone is super nice in the way they offer feedback and criticism.
+
+### Day 38: Sun/Mon - October 24, 2022
+
+**Today's Progress**: Pivoted away from the dark forest idea, because it was delaying the fighting part (which I think people want to do asap). Added more loopies to main map.
+
+- Updated spells so that they're more different and light one is easier
+- Give enemy death and stun states
+- Spawn in enemies at edge of player vision
+- Enemy / Player / Spell interaction bug fixes
+- Day Night and day counter
+- Add slow-down to world when spell casting
+- make stun time gradually get longer
+
+**Thoughts**: Had some big realizations today. First, I went about this whole game thing wrong. I should've focussed way more on refining the core game loop. Instead I got wrapped up in the storytelling and the art and the vibe. I love all that stuff, and in a different medium they'd be very important, but when it comes to games I think I'm just fully grasping that the balance of the different mechanics is paramount. I've known this in theory, but practicing it feels completely different.
+
+Second, receiving feedback is both awesome and difficult. I love it and dread it. It's so good for course correction, but course correcting kinna hurts, especially when I've sunk so much time into the current course.
+
+Third, I am now firmly rooted in the reality that I know absolutely nothing and I'm just here to learn stuff and share it along the way I guess.
