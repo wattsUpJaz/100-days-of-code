@@ -342,7 +342,7 @@ Next:
 
 **Thoughts**: It felt good to get through those bugs today. Having my family playtest it as I go is really helpful, and I think it's helping me get better at recieving feedback in an objective way. As much as I want to be super objective about the work I do and how to make it better, in reality I'm pretty sensitive. I guess it's good I recognize that at least. Also, this environment is really good for practicing being more resilient and using the criticism as a way to improve. Everyone is super nice in the way they offer feedback and criticism.
 
-### Day 38: Sun/Mon - October 24, 2022
+### Day 39: Sun/Mon - October 24, 2022
 
 **Today's Progress**: Pivoted away from the dark forest idea, because it was delaying the fighting part (which I think people want to do asap). Added more loopies to main map.
 
@@ -359,3 +359,9 @@ Next:
 Second, receiving feedback is both awesome and difficult. I love it and dread it. It's so good for course correction, but course correcting kinna hurts, especially when I've sunk so much time into the current course.
 
 Third, I am now firmly rooted in the reality that I know absolutely nothing and I'm just here to learn stuff and share it along the way I guess.
+
+### Day 40: Tuesday - October 25, 2022
+
+**Today's Progress**: Menu, pause menu, and stun cooldown ui element.
+
+**Thoughts**: Being sick sucks. Not hitting deadlines sucks.
