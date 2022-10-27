@@ -365,3 +365,15 @@ Third, I am now firmly rooted in the reality that I know absolutely nothing and 
 **Today's Progress**: Menu, pause menu, and stun cooldown ui element.
 
 **Thoughts**: Being sick sucks. Not hitting deadlines sucks.
+
+### Day 41: Wednesday - October 26, 2022
+
+**Today's Progress**: Ran into [this bug](https://github.com/godotengine/godot/issues/59348) and found that [someone has a PR](https://github.com/godotengine/godot/pull/65910) up for it
+
+- sounds
+- updated spell book
+- music
+- max enemies
+- pause and main menus
+
+**Thoughts**: Not sure why I've been having such a hard time the last few days. Maybe I've been pushing myself too hard?
