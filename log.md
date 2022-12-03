@@ -41,3 +41,34 @@ Found [this site](https://webxr-ios.webxrexperiments.com/splash.html) that might
 Looked into Godot's WebXR support more. Found [this](https://www.youtube.com/watch?v=UMKvSxUpsHA) interesting video. Learned that [Meta has dumped a lot of money into Godot](https://mixed-news.com/en/meta-invests-in-open-source-engine-godot-for-what-reason/), maybe for its XR potential?
 
 [Babylon.js](https://doc.babylonjs.com/journey/theFirstStep) may be a good alternative?
+
+### Day 3: Friday - December 2, 2022
+
+**Today's Progress**: Learned about Chrome tab groups and how to save them ([article here](https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to)).
+
+Enrolled and then unenrolled in a web development Harvard course. Almost enrolled in a couple three.js courses
+
+Found [Nerd Forge](https://www.youtube.com/@Nerdforge) on YT and wasted some time...
+
+Resources found:
+
+- [daisy ui](https://daisyui.com/) - tailwind components
+- [prisma](https://www.prisma.io/) - node.js / typescript ORM
+- [planetscale](https://planetscale.com/) - serverless MySql db
+- [cypress](https://www.cypress.io/) - full js testing framework
+
+Discovered Chrome's [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) dev tool for checking website quality.
+
+Decided to write a book.
+
+Did Advent of Code day 3
+
+**Thoughts**:
+
+Today's been an emotional one. I changed gears a lot. I came up with five different ideas for moving forward, and I was 100% convinced of them all at some point during the day. Jared and I went on a long walk, and he really helped me see things a little more clearly. He is such a lovely, kind, thoughful, insightful human. I am super lucky to be his partner in all this madness.
+
+I finished The Subtle Art again today and it inspired me to try reorienting myself around some good values and goals. I went back over the exercise I did back in September after reading Get Smart and that helped a lot. I think trying my hand at entrepreneurial stuff is really important to me, even if I fail miserably at it. It just resonates super deep with me and I feel like if I could get past some of these barriers I'm hitting, I could maybe even like it. I'm in my own way so bad though. I'm like a dog with squirrels. I get distracted so easily. And I feel burned out on code.
+
+After talking with Jared and explaining all the ideas I had, he said to roll with the book idea 100%. I cried. He's awesome. End of story. So I think this is gonna turn into a 100 days of log stuff type of thing, because I'm not sure how much coding I'll be doing. I do want to keep up on the Advent of Code, so I guess that'll count. I want to keep updates going here though, because it really helps me. A lot. My brain capacity is that of a goldfish, and trying to hold onto things or process all I did is exhausting and usually unsuccessful.
+
+Also, how the heck do you turn on spell check for markdown.
